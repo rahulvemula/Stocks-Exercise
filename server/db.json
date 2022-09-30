@@ -1,0 +1,44 @@
+{
+  "stocks": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "symbol": "AAPL",
+      "last_price": 133,
+      "market_cap": "2.2T",
+      "tag": "forFriends"
+    },
+    {
+      "id": 2,
+      "name": "Cisco",
+      "symbol": "CSCO",
+      "last_price": 51,
+      "market_cap": "1.2T",
+      "tag": "watching"
+    },
+    {
+      "id": 3,
+      "name": "T-Mobile",
+      "symbol": "T",
+      "last_price": 29,
+      "market_cap": "0.4T",
+      "tag": "watching"
+    },
+    {
+      "id": 4,
+      "name": "VMWare",
+      "symbol": "VMW",
+      "last_price": 165,
+      "market_cap": "1.5T",
+      "tag": "favorite"
+    },
+    {
+      "id": 5,
+      "name": "Walmart",
+      "symbol": "WMRT",
+      "last_price": 43,
+      "market_cap": "2.5T",
+      "tag": "forFriends"
+    }
+  ]
+}
